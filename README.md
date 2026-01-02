@@ -93,7 +93,7 @@
 
 ### 1️⃣ Clone Repository
    ```bash
-   git clone https://github.com/your-username/appointy.git
+   git clone [https://github.com/your-username/appointy.git](https://github.com/shivani2873/Appointy-App)
    cd appointy
 
 2. **Install Dependencies**:
