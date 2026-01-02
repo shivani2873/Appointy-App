@@ -121,16 +121,16 @@
 
 ```plaintext
 appointy/
-├── client/          # Frontend (React.js)
-├── server/          # Backend (Node.js, Express.js)
-├── models/          # MongoDB Schemas
-├── controllers/     # API Controllers
-├── routes/          # API Routes
-├── middleware/      # Authentication and Error Handling
-├── config/          # Configuration Files
-├── utils/           # Utility Functions
-├── public/          # Static Files
-└── .env             # Environment Variables
+├── client/        # React frontend
+├── server/        # Express backend
+├── models/        # MongoDB schemas
+├── controllers/   # Business logic
+├── routes/        # API routes
+├── middleware/    # Auth & error handling
+├── config/        # App configuration
+├── utils/         # Utility functions
+├── public/        # Static assets
+└── .env           # Environment variables
 ```
 
 ## 🤝 Contributions
